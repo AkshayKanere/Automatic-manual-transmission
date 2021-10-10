@@ -25,9 +25,12 @@ MCP2515 CAN transreceiver/controller module
 
 IDE : Arduino
 
+Hardware requirements and modifications in car
+
 Steps to build and flash code :
 To be Updated
 
 Hardware connections :
 TO be Updated
+
 
