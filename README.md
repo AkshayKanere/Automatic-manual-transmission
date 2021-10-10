@@ -13,10 +13,21 @@ https://www.youtube.com/watch?v=AZw_QxLEcJw
  * before trying it! YOU are choosing to make these modifications, and if
  * you point the finger at me for messing up your car, I will laugh at you.
  
- Hardware Requirement : 
+ Electronic components : 
  
  Arduino uno
+ 
  ![image](https://user-images.githubusercontent.com/82696402/136696069-b71e56aa-8f2d-40d0-af66-5268ab15afb2.png)
 
 MCP2515 CAN transreceiver/controller module
+
 ![image](https://user-images.githubusercontent.com/82696402/136696107-5cb6c00e-2edd-4323-a36e-70097240ca4d.png)
+
+IDE : Arduino
+
+Steps to build and flash code :
+To be Updated
+
+Hardware connections :
+TO be Updated
+
