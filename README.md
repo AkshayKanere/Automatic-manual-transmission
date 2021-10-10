@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=AZw_QxLEcJw
 Motivation behind creating this project :
 Driving a manual transmission car in city traffic is exhausting for me because to constant need to operate clutch. i wish i had an automatic transmision car. but its not feasible to replace car only for this reason so i found a way to automate cluch operartions. Also my family members are finding it very easy to drive the car with this installed.
 
+Disclaimer
 I am not responsible for sensor failures, dead ECU's,
 thermonuclear war, or you getting fired, because your car did not start for that important meeting. Please
 do some research if you have any concerns about features included in this project
