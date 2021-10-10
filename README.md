@@ -1,5 +1,5 @@
 # Automatic-manual-transmission
-Using this kit you can make your manual transmission cars clutch operate automatically for comfortable and easy driving.
+Using this software you can make your manual transmission cars clutch operate automatically for comfortable and easy driving.
 Automatic transmission cars have higher price than manual transmission cars. there are advantages and disadvantages of both systems,
 but can you get both in a car and switch between two types ?
 why not.. i have built one. dont forget to check youtube video of working demo.
