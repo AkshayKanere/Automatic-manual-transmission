@@ -36,4 +36,5 @@ To be Updated
 Hardware connections :
 TO be Updated
 
+Future scope :  To make gears shift automatically using some actuator mechanism
 
